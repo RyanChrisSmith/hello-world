@@ -1,15 +1,68 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/ryansmith/Turing/5mod/take_home/bitly/the_clickening/spec/encodes_file_reader_spec.rb": {
+      "/Users/ryansmith/Turing/5mod/take_home/bitly/the_clickening/spec/encode_spec.rb": {
         "lines": [
+          1,
           1,
           null,
           1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
           4,
           null,
           1,
           1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ryansmith/Turing/5mod/take_home/bitly/the_clickening/lib/encode.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          33,
+          33,
+          33,
+          33,
+          null,
+          null
+        ]
+      },
+      "/Users/ryansmith/Turing/5mod/take_home/bitly/the_clickening/spec/encodes_file_reader_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          6,
+          2,
+          null,
+          1,
+          1,
+          1,
           null,
           null,
           1,
@@ -19,6 +72,22 @@
           1,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          2,
+          null,
           null,
           null
         ]
@@ -31,28 +100,17 @@
           1,
           null,
           1,
-          3,
-          21,
+          6,
+          5,
+          30,
+          30,
+          30,
           null,
-          null
-        ]
-      },
-      "/Users/ryansmith/Turing/5mod/take_home/bitly/the_clickening/lib/encode.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          18,
-          18,
-          18,
           null,
           null
         ]
       }
     },
-    "timestamp": 1682450829
+    "timestamp": 1682452654
   }
 }
