@@ -1,7 +1,29 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/ryansmith/Turing/5mod/take_home/bitly/the_clickening/spec/encodes_file_reader_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/ryansmith/Turing/5mod/take_home/bitly/the_clickening/lib/encodes_file_reader.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
     },
-    "timestamp": 1682439438
+    "timestamp": 1682448829
   }
 }
